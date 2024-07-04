@@ -3,7 +3,7 @@
 <span>
 <a href="https://github.com/Manish15559">
 <img height="185" width="49%" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Manish15559&layout=compact&langs_count=6&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="185" width="49%" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Manish15559&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
+<img height="185" width="49%" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Manish15559&show_icons=true&count_private=true&layout=compact&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
 </a>
 </span>
 
