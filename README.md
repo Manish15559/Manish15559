@@ -1,7 +1,11 @@
 ## 📊 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Manish15559&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish15559&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br> <br>
+<span>
+<a href="https://github.com/Manish15559">
+<img height="185" width="48%" src="https://github-readme-stats.vercel.app/api?username=Manish15559&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="My Github Top Languages" />
+<img height="185" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish15559&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="RedHeadphone Github Stats" />
+</a>
+</span>
 
 
 
